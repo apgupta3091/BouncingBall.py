@@ -1,2 +1,5 @@
 # BouncingBall.py
-Balls that bounce off of the ceiling of the graphics window and then change direction also can click on the graphics window to change the colors of the balls
+A few of the python programs in which I have been working on since Summer 19'
+These programs involve, the graphics package, for loops, if statements, while loops,
+and all of the basic python concepts.
+
